@@ -18,9 +18,9 @@
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 
 
-![Parikshit's github stats](https://github-readme-stats.vercel.app/api?username=ParikshitShetty&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParikshitShetty&layout=compact&theme=radical)
+
+![Parikshit's github stats](https://github-readme-stats.vercel.app/api?username=ParikshitShetty&show_icons=true&theme=radical)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ParikshitShetty&theme=radical)
 <!--
