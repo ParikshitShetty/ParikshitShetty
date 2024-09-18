@@ -1,20 +1,6 @@
-## Hi there 👋
-
-### Hello World 👋 It's [Saket!](https://sakigo9.github.io/MyPortfolio/)
+### Hello World 👋 It's Parikshit
 
 <br/>
-
-
-<a href="[https://twitter.com/sakigo_09](https://x.com/ParikshitShett1)">
-<img align="left" alt="Parikshit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/parikshit-shetty/">
-<img align="left" alt="Parikshit Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<br />
-
-<br />
-
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
@@ -26,7 +12,7 @@
 - 💬 Ask me about anything , Would love to answer them.
 
 
-![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=sakigo9&show_icons=true&hide_border=true)
+![Parikshit's github stats](https://github-readme-stats.vercel.app/api?username=ParikshitShetty&show_icons=true&theme=radical)
 
 <!--
 **ParikshitShetty/ParikshitShetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
